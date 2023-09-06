@@ -1,0 +1,14 @@
+.shop {
+    border: 1px dotted rgb(17, 17, 17);
+    padding: 1em;
+    margin: 0.5em;
+    flex-basis: 16%;
+    text-align: center;
+    background-color: yellow; 
+    color: blue;
+}
+.list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
